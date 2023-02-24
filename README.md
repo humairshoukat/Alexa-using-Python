@@ -1,5 +1,5 @@
 # Alexa-using-Python
-Alexa Has Only 2 Tasks to perform:
+Alexa has only 2 tasks to perform:
 
 1. Listen
 
